@@ -1,0 +1,7 @@
+node_modules
+vite.config.ts.timestamp-*
+.cache/
+build/
+dist/
+public/build/
+.DS_Store

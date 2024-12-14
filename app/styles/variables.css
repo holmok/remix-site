@@ -1,0 +1,64 @@
+:root {
+  --lightest: #fff;
+  --darkest: #000;
+
+  --main: #999999;
+  --main-light: #cccccc;
+  --main-lighter: #e6e6e6;
+  --main-lightest: #ffffff;
+  --main-darker: #333333;
+  --main-darkest: #000000;
+  --main-dark: #666666;
+
+  --font-size-big: 110%;
+  --font-size-bigger: 130%;
+  --font-size-biggest: 200%;
+
+  --font-size-small: 90%;
+  --font-size-smaller: 70%;
+
+  --font-family: 'Arial', sans-serif;
+
+  --background: var(--lightest);
+  --text-color: var(--darkest);
+
+  --header-background: var(--main-darkest);
+  --header-text-color: var(--lightest);
+  --header-height: 60px;
+
+  --footer-background: var(--main-darkest);
+  --footer-text-color: var(--lightest);
+  --footer-hover-text-color: var(--main-lighter);
+  --footer-height: 60px;
+
+  --menu-background: var(--main-darker);
+  --menu-text-color: var(--lightest);
+  --menu-hover-background: var(--main);
+  --menu-hover-text-color: var(--lightest);
+
+  --menu-toggle-size: 200%;
+
+  --link: var(--main-darker);
+
+  --gutter: 20px;
+  --gutter-small: 10px;
+  --gutter-tiny: 5px;
+
+  --pad-single-line: 4px 12px 5px;
+  --pad-card-content: 8px 15px;
+  --pad-card: 10px 20px;
+  --pad-card-content-more: 17px 27px;
+
+  --outer-radius: 10px;
+  --inner-radius: 5px;
+
+  --bottom-radius: 0 0 10px 10px;
+  --top-radius: 10px 10px 0 0;
+
+  --main-width: 780px;
+
+  --control-min-width: 100px;
+  --control-height: 35px;
+  --control-select-padding: 0 10px;
+  --control-button-padding: 5px 15px;
+}
